@@ -1,0 +1,6 @@
+pane	code	0	1	:*	0	:/home/YM/Boll/src	0	nvim	:fish
+pane	code	0	1	:*	1	:/home/YM	0	bash	:
+pane	code	0	1	:*	2	:/home/YM	1	fish	:fish
+pane	code	0	1	:*	3	:/home/YM/Boll	0	node	:fish
+window	code	0	:fish	1	:*	8622,80x23,0,0[80x21,0,0,0,80x1,0,22{27x1,0,22,1,24x1,28,22,2,27x1,53,22,3}]	:
+state	code	

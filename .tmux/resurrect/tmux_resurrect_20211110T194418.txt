@@ -1,0 +1,8 @@
+pane	2	0	1	:*	0	:/home/YM	1	bash	:
+pane	code	0	1	:*	0	:/home/YM/dotfiles	1	fish	:fish
+pane	code	0	1	:*	1	:/home/YM	0	bash	:
+pane	code	0	1	:*	2	:/home/YM/Boll/src/Components/Question/Answer	0	bash	:
+pane	code	0	1	:*	3	:/home/YM/Boll/src	0	bash	:
+window	2	0	:bash	1	:*	ae5e,80x23,0,0,1	:
+window	code	0	:fish	1	:*	8727,192x50,0,0[192x33,0,0,2,192x16,0,34{64x16,0,34,3,58x16,65,34,4,68x16,124,34,5}]	:
+state	code	2
